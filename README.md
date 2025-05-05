@@ -39,6 +39,7 @@
 <h2 align="left">Lets Play</h2>
 
 ###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfainfdl/alfainfdl/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfainfdl/alfainfdl/output/pacman-contribution-graph.svg">
