@@ -1,8 +1,10 @@
-<h1 align="left">👋Hi there, I'm Alfain Fadil</h1>
+<h1 align="left">Hi there, I'm Alfain Fadil 👋</h1>
 
 ###
 
-<p align="left">Welcome to our playground, love learning all things tech!</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=false&lines=Welcome+to+our+playground🤾‍♀️;Love+learning+all+things+tech📖;Let’s+build+something+awesome!" alt="Typing SVG" />
+</p>
 
 ###
 
@@ -14,7 +16,7 @@
 
 ###
 
-<h2 align="left">I Code With</h2>
+<h2 align="left">Code With</h2>
 
 ###
 
@@ -36,7 +38,7 @@
 
 ###
 
-<h2 align="left">Lets Play</h2>
+<h2 align="left">Lets Play!</h2>
 
 ###
 
