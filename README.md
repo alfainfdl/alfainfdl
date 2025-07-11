@@ -1,18 +1,4 @@
-<h1 align="left">Hi there, I'm Alfain Fadil 👋</h1>
-
-###
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=false&lines=Welcome+to+our+playground🤾‍♀️;Love+learning+all+things+tech📖;Let’s+build+something+awesome!" alt="Typing SVG" />
-</p>
-
-###
-
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2019</p>
+<h1 align="left">Hi, I'm Alfain Fadil 👋</h1>
 
 ###
 
@@ -35,10 +21,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
-
-###
-
-<h2 align="left">Lets Play!</h2>
 
 ###
 
